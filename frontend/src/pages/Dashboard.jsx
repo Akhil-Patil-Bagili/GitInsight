@@ -23,7 +23,7 @@ export const Dashboard = () => {
     //     password
     //   })
     //   localStorage.setItem("token", response.data.token)
-      navigate("#chat")
+      navigate("/chatbot")
     }
 
     return <div>
